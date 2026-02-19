@@ -7,7 +7,7 @@
 #include "esphome/components/uart/uart.h"
 #include "esphome/core/helpers.h"
 #include "esphome/core/log.h"
-#include <MIDI.h>
+#include "MIDI.h"
 
 namespace esphome {
 namespace midi_in {
